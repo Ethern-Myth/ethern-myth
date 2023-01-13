@@ -26,6 +26,11 @@ About:
 - [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>](https://ethernmyth.cf)
 
 ---
+### Did you know?
+
+Creating website that are SEO friendly, makes it easy to index and have them global. I have a secret to optimizing ...
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
