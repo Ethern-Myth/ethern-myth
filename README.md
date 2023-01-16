@@ -28,7 +28,7 @@ About:
 ---
 ### Did you know?
 
-Creating website that are SEO friendly, makes it easy to index and have them global. I have a secret to optimizing ...
+Everyday, Ethern Myth is doing something toward 365. No rest, till all the rest gets the best.
 
 ---
 
