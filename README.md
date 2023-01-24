@@ -25,16 +25,6 @@ About:
 - :mailbox:How to reach me. Visit my website and send an email on the contact section or chat using the chat popup:
 - [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>](https://ethernmyth.cf)
 
----
-### Something to read: 
-
-In silence to I, hear noise
-In darkness to I, see light
-In life to I, thrive
-But after all, I is all I know
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
