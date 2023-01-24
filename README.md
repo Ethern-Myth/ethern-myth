@@ -26,9 +26,12 @@ About:
 - [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>](https://ethernmyth.cf)
 
 ---
-### Did you know?
+### Something to read: 
 
-Everyday, Ethern Myth is doing something toward 365. No rest, till all the rest gets the best.
+In silence to I, hear noise
+In darkness to I, see light
+In life to I, thrive
+But after all, I is all I know
 
 ---
 
