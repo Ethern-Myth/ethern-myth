@@ -23,7 +23,7 @@ About:
 - :zap: In my free time, I am learning a new programming languange
 
 - :mailbox:How to reach me. Visit my website and send an email on the contact section or chat using the chat popup:
-- [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>]([[https://ethernmyth.cf](https://myth-project.vercel.app/)](https://myth-project.vercel.app/))
+- [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>]([(https://myth-project.vercel.app/)])
 
 ### :hammer_and_wrench: Languages and Tools :
 
