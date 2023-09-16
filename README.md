@@ -16,11 +16,11 @@
 
 About:
 
-- :telescope: Full Stack Developer. If not enough, trade in the hobbies. 
+- :telescope: Full Stack Developer, but working towards a new scientific breakthrough. 
 
-- :seedling: Mathematics in programming, Business and Product Management.
+- :seedling: Developing a natural language from science to technology making an effort to ... find out soon.
 
-- :zap: In my free time, I am learning a new programming languange
+- :zap: In my free time, I am writing research papers and most importantly sharpening programming skills.
 
 - :mailbox:How to reach me. Visit my website and send an email on the contact section or chat using the chat popup:
 - <div id="badges">
@@ -68,7 +68,7 @@ About:
 </div>
 
 ---
-### More Projects Are Coming Soon.
+### More Inventions to be added in due time. Keep a look out.
 
 ### :fire: Stats :
 
