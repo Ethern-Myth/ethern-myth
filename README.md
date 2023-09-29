@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome,
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
@@ -12,21 +12,6 @@
 
 <div id="profile-count">
   <img src="https://komarev.com/ghpvc/?username=Ethern-Myth&style=flat-square&color=blue" alt=""/>
-</div>
-
-About:
-
-- :telescope: Full Stack Developer, but working towards a new scientific breakthrough. 
-
-- :seedling: Developing a natural language from science to technology making an effort to ... find out soon.
-
-- :zap: In my free time, I am writing research papers and most importantly sharpening programming skills.
-
-- :mailbox:How to reach me. Visit my website and send an email on the contact section or chat using the chat popup:
-- <div id="badges">
-   <a href="https://myth-project.vercel.app/">
-    <img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
-  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -68,7 +53,6 @@ About:
 </div>
 
 ---
-### More Inventions to be added in due time. Keep a look out.
 
 ### :fire: Stats :
 
