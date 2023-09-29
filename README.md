@@ -1,8 +1,4 @@
-## Welcome,
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
-</div>
+## Welcome
 
 <div id="badges">
    <a href="https://myth-project.vercel.app/">
