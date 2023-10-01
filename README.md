@@ -14,7 +14,14 @@
 
 ### ⚒️ Languages & Tools :
 <div id="badges">
-  <img src="" alt=""/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" alt="" width="30" height="30"/>
 </div>
 <br>
 
