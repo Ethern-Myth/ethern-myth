@@ -22,3 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethern-Myth&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ethern-Myth&theme=tokyonight)](https://git.io/streak-stats)
+
+![Ethern Myth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethern-Myth&show_icons=true&theme=tokyonight)
