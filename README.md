@@ -19,6 +19,9 @@
 <br>
 
 ### :fire: Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethern-Myth&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethern-myth&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ethern-Myth&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://github-trophies.vercel.app/?username=ethern-myth)
+
