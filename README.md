@@ -23,5 +23,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)](https://git.io/streak-stats)
 
-![](https://github-trophies.vercel.app/?username=ethern-myth)
+![](https://github-trophies.vercel.app/?username=ethern-myth&theme=onestar&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
