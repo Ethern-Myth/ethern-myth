@@ -1,11 +1,9 @@
 
 <div align="center">
-  <h1>Welcome</h1>
-  <br/>
-  <p><i>Introducing Ethern Myth</i>.</p> 
-  <p><i>Spot and find the difference in your world</i>.</p>
-  <p><i>Feel free to sit and enjoy your coffee</i>.</p>
-  <p><b>E=M</b></p>
+  <h3>Welcome</h3>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=006258&background=FFFFFF00&center=true&random=false&width=435&lines=Introducing+Ethern+Myth;Why+look+too+far;Spot+the+difference;In+your+world;Invite+yourself;And+feel+free+to+sit+;Enjoy+your+coffee;E+%3D+M)
+  
   <br/>
   <div id="profile-count">
   <img src="https://komarev.com/ghpvc/?username=Ethern-Myth&style=flat-square&color=blue" alt=""/>
