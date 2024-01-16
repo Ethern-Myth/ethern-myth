@@ -2,7 +2,7 @@
 <div align="center">
   <h3>Welcome</h3>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=006258&background=FFFFFF00&center=true&random=false&width=435&lines=Introducing+Ethern+Myth;Why+look+too+far;Spot+the+difference;In+your+world;Invite+yourself;And+feel+free+to+sit+;Enjoy+your+coffee;E+%3D+M)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=006258&background=FFFFFF00&center=true&random=false&width=435&lines=Introducing+Ethern+Myth;E+%3D+M)
   
   <br/>
   <div id="profile-count">
@@ -17,9 +17,6 @@
 <br>
 
 ### :fire: Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethern-myth&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)](https://git.io/streak-stats)
-
-![](https://github-trophies.vercel.app/?username=ethern-myth&theme=onestar&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
