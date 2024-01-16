@@ -17,6 +17,6 @@
 <br>
 
 ### :fire: Stats :
-![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)]
 
 
