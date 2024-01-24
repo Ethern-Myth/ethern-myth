@@ -3,6 +3,10 @@
   <h3>Welcome</h3>
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=006258&background=FFFFFF00&center=true&random=false&width=435&lines=Introducing+Ethern+Myth;E+%3D+M)
+
+  ### Notice:
+  
+  I am currently doing technical writing for repositories I find interesting. More repos will be available for public once documentation is published. Thank you.
   
   <br/>
   <div id="profile-count">
