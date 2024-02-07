@@ -1,10 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-
-<foreignObject width="100%" height="100%">
-
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-  <div class="container" style="box-sizing: border-box; width: 100%; height: 100%; display: flex; flex-direction: column;flex-wrap: wrap;
+<div class="container" style="box-sizing: border-box; width: 100%; height: 100%; display: flex; flex-direction: column;flex-wrap: wrap;
   ">
   <div class="container-pre-header">
 
@@ -39,7 +33,7 @@
   <div class="container-stats">
 <h2>🔥 ꌗ꓄ꍏ꓄ꌗ</h2>
 
-<div>
+<div style="display:flex; align-items:center;justify-content:center;">
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=ethern-myth&theme=tokyonight)
 
@@ -69,8 +63,3 @@
   </div>
 
 </div>
-
-</div>
-
- </foreignObject>
-</svg>
