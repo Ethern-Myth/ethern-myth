@@ -1,5 +1,4 @@
-<div class="container" style="box-sizing: border-box; width: 100%; height: 100%; display: flex; flex-direction: column;flex-wrap: wrap;
-  ">
+<div class="container" align="center">
   <div class="container-pre-header">
 
   <div id="profile-count">
