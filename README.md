@@ -1,7 +1,3 @@
-
-<link href="./style/style.css" rel="stylesheet">
-</link>
-
 <div class="container">
   <div class="container-pre-header">
 
@@ -66,3 +62,64 @@
   </div>
 
 </div>
+
+<style>
+  .container {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container-pre-header .typing {
+    text-align: center;
+}
+
+.container-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-header img {
+    width: 50%;
+    height: 50%;
+    filter: grayscale(100%);
+}
+
+.container-body {
+    text-align: center;
+    flex-direction: row;
+    row-gap: 2;
+}
+
+.container-body .container-message {
+    padding: 20px;
+}
+
+.container-body .container-message span {
+    font-size: 20vw;
+}
+
+.container-body .container-message p:nth-child(5) {
+    font-size: 10vw;
+}
+
+.container-body .container-message p:nth-child(6) {
+    font-size: 5vw;
+}
+
+.container-body .container-message p:last-child {
+    font-size: 3vw;
+}
+
+.container-body #badges {
+    padding: 10px;
+}
+
+.container .container-footer {
+    padding: 20px;
+}
+<style>
