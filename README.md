@@ -15,7 +15,7 @@
   </div>
 
   <div class="container-header" style="display: flex;align-items:center;justify-content:center;">
-    <img style="display:flex; align-items:center; justify-content:center;width: 50%;height: 50%;filter: grayscale(100%);" src="./assets/images/wolf.png" alt-="lonely-wolf"/>
+    <img style="display:flex; align-items:center; justify-content:center;width: 50%;height: 50%;filter: grayscale(100%);" src="./assets/images/wolf.svg" alt-="lonely-wolf"/>
   </div>
   <div class="container-body" style="text-align: center;flex-direction: row;row-gap: 2; justify-content-center;">
   <div class="container-message" style="padding: 20px;">
