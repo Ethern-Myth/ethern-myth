@@ -4,7 +4,8 @@
 
 <div xmlns="http://www.w3.org/1999/xhtml">
 
-  <div class="container">
+  <div class="container" style="box-sizing: border-box; width: 100%; height: 100%; display: flex; flex-direction: column;flex-wrap: wrap;
+  ">
   <div class="container-pre-header">
 
   <div id="profile-count">
@@ -13,17 +14,17 @@
 
   <h1 class="heading">Ⲱⲉ𝓵ⲥⲟⲙⲉ Ⲧⲟ Ⲉⲧⲏⲉꞅⲛ Ⲱⲟꞅ𝓵ⲇ</h1>
   
-  <div class="typing">
+  <div class="typing" style="text-align: center;">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=inherit&background=FFFFFF00&center=true&random=false&width=435&lines=Introducing+Ethern+Myth;E+%3D+M)
   </div>
 
   </div>
 
-  <div class="container-header">
-    <img src="./assets/images/wolf.svg" alt-="lonely-wolf"/>
+  <div class="container-header" style="display: flex; align-items: center;justify-content: center;">
+    <img style="width: 50%;height: 50%;filter: grayscale(100%);" src="./assets/images/wolf.svg" alt-="lonely-wolf"/>
   </div>
-  <div class="container-body">
+  <div class="container-body" style="text-align: center;flex-direction: row;row-gap: 2;">
   <div class="container-message">
 
   <p> ▌║█║▌│║▌│║▌║▌█║<p>
@@ -68,69 +69,6 @@
   </div>
 
 </div>
-
-<style>
-
-  .container {
-    box-sizing: border-box;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-}
-
-.container-pre-header .typing {
-    text-align: center;
-}
-
-.container-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.container-header img {
-    width: 50%;
-    height: 50%;
-    filter: grayscale(100%);
-}
-
-.container-body {
-    text-align: center;
-    flex-direction: row;
-    row-gap: 2;
-}
-
-.container-body .container-message {
-    padding: 20px;
-}
-
-.container-body .container-message span {
-    font-size: 20vw;
-}
-
-.container-body .container-message p:nth-child(5) {
-    font-size: 10vw;
-}
-
-.container-body .container-message p:nth-child(6) {
-    font-size: 5vw;
-}
-
-.container-body .container-message p:last-child {
-    font-size: 3vw;
-}
-
-.container-body #badges {
-    padding: 10px;
-}
-
-.container .container-footer {
-    padding: 20px;
-}
-
-<style>
 
 </div>
 
