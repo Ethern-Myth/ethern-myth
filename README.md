@@ -2,7 +2,8 @@
 
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
+
+  <style>
         .container {
           display: flex;
           width: 100%;
@@ -10,7 +11,7 @@
           color: white;
           top:0;
         }
-      </style>
+  </style>
 
   <div class="container">
         <h1>Hi there, my name is Ethern 👋</h1>
