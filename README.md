@@ -64,6 +64,7 @@
 </div>
 
 <style>
+
   .container {
     box-sizing: border-box;
     width: 100%;
@@ -122,4 +123,5 @@
 .container .container-footer {
     padding: 20px;
 }
+
 <style>
