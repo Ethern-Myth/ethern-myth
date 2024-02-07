@@ -2,10 +2,13 @@
 
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
 
-<link href="style/style.css" rel="stylesheet"></link>
   <foreignObject width="100%" height="100%">
 
 <div  xmlns="http://www.w3.org/1999/xhtml" class="container">
+
+
+<link href="style/style.css" rel="stylesheet"></link>
+
   <div class="container-pre-header">
 
   <div id="profile-count">
