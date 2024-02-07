@@ -4,13 +4,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
   <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          color: white;
-          top:0;
-        }
+    .container {
+      display: flex;
+      width: 100%;
+      height: 300px;
+      color: white;
+      top:0;
+    }
   </style>
 
   <div class="container">
