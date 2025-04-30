@@ -34,7 +34,7 @@
 
 <div style="display:flex; align-items:center;justify-content:center;">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=Ethern-Myth)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ethern-Myth&theme=dark)](https://git.io/streak-stats)
 
 </div>
   </div>
