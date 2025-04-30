@@ -28,7 +28,7 @@
 
 <div align="center">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=Ethern-Myth&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Ethern-Myth&theme=dark)](https://streak-stats.demolab.com?user=Ethern-Myth&theme=dark)
 
 </div>
 
