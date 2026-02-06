@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ethern-Myth&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
-<!--
-**Ethern-Myth/ethern-myth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+Builder by background.
+Architectural thinker by practice.
 
-Here are some ideas to get you started:
+Building production software.
+Prioritizing clarity and simplicity.
+Limiting long-term complexity.
+Surfacing trade-offs early.
+Keeping designs easy to understand and maintain.
+Preferring steady execution over clever solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is not a résumé.
+It’s a filter.
+</div>
